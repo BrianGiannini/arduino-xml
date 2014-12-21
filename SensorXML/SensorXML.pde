@@ -5,7 +5,7 @@ void setup() {
    print("new");
    
    mySerial = new Serial( this, Serial.list()[0], 9600 );
-   output = createWriter( "data.txt" );
+   output = createWriter( "data.xml" );
    output.println( "New file" );
    
    println(Serial.list()[0]);
