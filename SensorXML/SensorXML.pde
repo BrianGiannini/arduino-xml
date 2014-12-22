@@ -16,6 +16,7 @@ int i;
 void setup () {
   
   xml = new XML("Data");
+  xml.setString("date", day() + "/" + month() + "/" + year());
   
 // create file to store data 
 // output = createWriter( "data.xml" );   
@@ -50,11 +51,12 @@ void serialEvent (Serial myPort) {
   
   // Write temperature value
   //output.println(celciusTemp);
-   
+  println( day());
   // add temp to XML
   i= i+1;  
   tempChild = xml.addChild("temperature");
   tempChild.setInt("id", i);
+  tempChild.setString("date", hour() + "h " + minute() + "m " + second() +"s");
   
   valueC = tempChild.addChild("valc");
   valueC.setContent(String.valueOf(celciusTemp)); 
@@ -110,8 +112,8 @@ void serialEvent (Serial myPort) {
 }
 
 void keyPressed() {
-    output.flush();  // Writes the remaining data to the file
-    output.close();  // Finishes the file
+    //output.flush();  // Writes the remaining data to the file
+    //output.close();  // Finishes the file
     saveXML(xml, "temperatures.xml");
     exit();  // Stops the program
 }
