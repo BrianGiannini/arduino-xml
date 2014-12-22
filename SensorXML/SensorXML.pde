@@ -5,10 +5,12 @@ int xPos = 1; // horizontal position of the graph
 float maxTemp = 0;
 float minTemp = 1000;
 float celciusTemp = 0;
+float fahrenheitTemp = 0;
 PrintWriter output;
 XML xml;
-XML newChild;
-XML newChild2;
+XML tempChild;
+XML valueC;
+XML valueF;
 int i;
 
 void setup () {
@@ -16,7 +18,7 @@ void setup () {
   xml = new XML("Data");
   
 // create file to store data 
-   output = createWriter( "data.xml" );   
+// output = createWriter( "data.xml" );   
 
    
 // set the window size:
@@ -44,16 +46,24 @@ void serialEvent (Serial myPort) {
   // get the ASCII string:
   String inString = myPort.readStringUntil('\n');
   celciusTemp = Float.parseFloat(inString);
+  fahrenheitTemp = celciusTemp*1.8+32;
   
   // Write temperature value
   //output.println(celciusTemp);
    
   // add temp to XML
   i= i+1;  
-  newChild = xml.addChild("Temperature");
-  newChild.setInt("id", i);
-  newChild.setContent(String.valueOf(celciusTemp)); 
-  newChild.setString("Unit", "Celcius");
+  tempChild = xml.addChild("temperature");
+  tempChild.setInt("id", i);
+  
+  valueC = tempChild.addChild("valc");
+  valueC.setContent(String.valueOf(celciusTemp)); 
+  valueC.setString("unit", "celcius");
+  
+  valueF = tempChild.addChild("valf");
+  valueF.setContent(String.valueOf(fahrenheitTemp)); 
+  valueF.setString("unit", "fahrenheit");
+  
   saveXML(xml, "temperatures.xml");     
   
    
