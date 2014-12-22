@@ -29,16 +29,7 @@ background(0);
 println(Serial.list()[0]);
 }
 void draw () {
-  /*
-  if (myPort.available() > 0 ) {
-    String celciusTemp = myPort.readStringUntil('\n');
-              println("serial" +  celciusTemp);
-         if (celciusTemp != null ) {
-              println("val" +  celciusTemp);
-              output.print(celciusTemp);
-         }
-    }
-    */
+ 
 }
 
 void serialEvent (Serial myPort) {
