@@ -6,23 +6,28 @@ float maxTemp = 0;
 float minTemp = 1000;
 float celciusTemp = 0;
 PrintWriter output;
+XML xml;
+XML newChild;
+XML newChild2;
+int i;
 
 void setup () {
   
-print("new");
-
+  xml = new XML("Data");
+  
 // create file to store data 
-   output = createWriter( "data.xml" );
-   output.println( "New XML file" );
+   output = createWriter( "data.xml" );   
+
    
 // set the window size:
 size(800, 600);
+
 
 // List all the available serial ports
 println(Serial.list());
 myPort = new Serial(this, Serial.list()[0], 9600);
 // don't generate a serialEvent() unless you get a newline character:
-myPort.bufferUntil('\n');// commet to get data
+myPort.bufferUntil('\n');
 // set inital background:
 background(0);
 
@@ -40,7 +45,17 @@ void serialEvent (Serial myPort) {
   String inString = myPort.readStringUntil('\n');
   celciusTemp = Float.parseFloat(inString);
   
-  output.println(celciusTemp);
+  // Write temperature value
+  //output.println(celciusTemp);
+   
+  // add temp to XML
+  i= i+1;  
+  newChild = xml.addChild("Temperature");
+  newChild.setInt("id", i);
+  newChild.setContent(String.valueOf(celciusTemp)); 
+  newChild.setString("Unit", "Celcius");
+  saveXML(xml, "temperatures.xml");     
+  
    
   
   if (celciusTemp > maxTemp){
@@ -87,5 +102,6 @@ void serialEvent (Serial myPort) {
 void keyPressed() {
     output.flush();  // Writes the remaining data to the file
     output.close();  // Finishes the file
+    saveXML(xml, "temperatures.xml");
     exit();  // Stops the program
 }
