@@ -11,11 +11,12 @@ XML xml;
 XML tempChild;
 XML valueC;
 XML valueF;
+XML time;
 int i;
 
 void setup () {
   
-  xml = new XML("Data");
+  xml = new XML("data");
   xml.setString("date", day() + "/" + month() + "/" + year());
   
 // create file to store data 
@@ -58,6 +59,10 @@ void serialEvent (Serial myPort) {
   tempChild.setInt("id", i);
   tempChild.setString("date", hour() + "h " + minute() + "m " + second() +"s");
   
+  time = tempChild.addChild("time");
+  time.setContent(String.valueOf(millis()/1000)); 
+  time.setString("unit", "second");
+    
   valueC = tempChild.addChild("valc");
   valueC.setContent(String.valueOf(celciusTemp)); 
   valueC.setString("unit", "celcius");

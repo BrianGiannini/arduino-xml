@@ -1,0 +1,123 @@
+/*
+style.css
+---------
+ By Brian Giannini
+*/
+
+header
+{
+    /*background: url('images/border_horiz_a1.gif') repeat-x bottom;*/
+}
+ 
+h1
+{
+	/*text-align: center;*/
+	font-variant: small-caps;
+	font-family: "Arial Black", Arial, Verdana, serif
+}
+
+h1 em
+{
+	font-size: 1.1em;
+}
+
+body 
+{
+   /*background-image: url("images/clean_background.png");
+   background-repeat: repeat;*/
+   background-color: #FFFFFF;
+}
+
+p
+{
+	/*text-indent: 30px;*/
+	text-align: justify;
+	font-family:   serif;
+	/*color: rgb(233,255,255);*/
+}
+
+a 
+{
+   text-decoration: none;
+   color: #3CBCBC;
+}   
+
+:visited
+{
+    color: #287F7F;
+}
+
+a:hover 
+{
+   text-decoration: underline;
+   color: #F72D00;
+}
+
+section
+{
+	/*display: inline-block;*/ 	
+    /*border: 1px solid black;
+	padding: 12px;
+	vertical-align: top;*/
+	/*background-image: url("images/clean_background.png");*/
+	margin-bottom:20px;
+	border: 1px black solid;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px black;
+	padding: 12px;
+	background-color: #FFFFFF;
+    /*margin: auto;*/
+}
+
+#bloc_page
+{
+	margin: auto;
+    width: 600px;
+}
+
+#display
+{
+	margin: auto;
+  	width: 600px;
+}
+
+
+
+.introduction
+{
+	/*font-style: italic;*/
+	/*color: rgb(145,0,0);*/
+}
+
+.important
+{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.Vimportant
+{
+	font-size: 2.0em;
+	font-weight: bold;
+	margin-top : 5px;
+	margin-bottom : 5px;
+	/*padding-bottom : 20px;*/
+}
+
+hr
+{
+margin-top : 0px;
+margin-bottom : 0px;
+}
+
+ul
+{
+padding-left: 10px
+}
+
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
