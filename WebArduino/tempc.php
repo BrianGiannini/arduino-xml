@@ -92,7 +92,6 @@ Made By Brian Giannini
 		<ul>
 			<li><a href="tempc.php">Temperature °C</a></li>
 			<li><a href="tempf.php">Temperature °F</a></li>
-			<li><a href="">Luminosity</a></li>
 		</ul>
 	</nav>
 	<section>

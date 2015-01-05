@@ -24,7 +24,7 @@ void setup () {
 
    
 // set the window size:
-size(800, 600);
+size(430, 300);
 
 
 // List all the available serial ports
@@ -94,14 +94,14 @@ void serialEvent (Serial myPort) {
     stroke(0, 200, 255);
     fill(255);
     line(xPos, height, xPos, height - inByte);
-    textSize(48);
+    textSize(24);
     fill(255, 255, 255);
     text(inString, 10, 50);
-    textSize(32);
-    fill(255, 0, 0);
-    text("Min: " + minTemp +"°C", 180, 40);
+    textSize(24);
     fill(0, 0, 255);
-    text("  Max: " + maxTemp +"°C", 390, 40);
+    text("Min: " + minTemp +"°C", 90, 40);
+    fill(255, 0, 0);
+    text("  Max: " + maxTemp +"°C", 250, 40);
     
     
     // at the edge of the screen, go back to the beginning:

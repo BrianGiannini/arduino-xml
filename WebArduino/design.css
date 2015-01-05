@@ -4,10 +4,6 @@ style.css
  By Brian Giannini
 */
 
-header
-{
-    /*background: url('images/border_horiz_a1.gif') repeat-x bottom;*/
-}
  
 h1
 {
@@ -21,19 +17,12 @@ h1 em
 	font-size: 1.1em;
 }
 
-body 
-{
-   /*background-image: url("images/clean_background.png");
-   background-repeat: repeat;*/
-   background-color: #FFFFFF;
-}
+
 
 p
 {
-	/*text-indent: 30px;*/
 	text-align: justify;
 	font-family:   serif;
-	/*color: rgb(233,255,255);*/
 }
 
 a 
@@ -55,18 +44,13 @@ a:hover
 
 section
 {
-	/*display: inline-block;*/ 	
-    /*border: 1px solid black;
-	padding: 12px;
-	vertical-align: top;*/
-	/*background-image: url("images/clean_background.png");*/
+	
 	margin-bottom:20px;
 	border: 1px black solid;
 	border-radius: 10px;
 	box-shadow: 2px 2px 2px black;
 	padding: 12px;
 	background-color: #FFFFFF;
-    /*margin: auto;*/
 }
 
 #bloc_page
@@ -82,13 +66,6 @@ section
 }
 
 
-
-.introduction
-{
-	/*font-style: italic;*/
-	/*color: rgb(145,0,0);*/
-}
-
 .important
 {
 	font-size: 1.2em;
@@ -101,7 +78,6 @@ section
 	font-weight: bold;
 	margin-top : 5px;
 	margin-bottom : 5px;
-	/*padding-bottom : 20px;*/
 }
 
 hr

@@ -1,63 +1,1148 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<data date="23/12/2014">
-  <temperature date="23h 40m 58s" id="1">
+<data date="24/12/2014">
+  <temperature date="15h 21m 38s" id="1">
     <time unit="second">1</time>
     <valc unit="celcius">22.27</valc>
     <valf unit="fahrenheit">72.086</valf>
   </temperature>
-  <temperature date="23h 41m 3s" id="2">
-    <time unit="second">6</time>
+  <temperature date="15h 21m 41s" id="2">
+    <time unit="second">4</time>
     <valc unit="celcius">22.75</valc>
     <valf unit="fahrenheit">72.95</valf>
   </temperature>
-  <temperature date="23h 41m 8s" id="3">
+  <temperature date="15h 21m 41s" id="3">
+    <time unit="second">4</time>
+    <valc unit="celcius">22.75</valc>
+    <valf unit="fahrenheit">72.95</valf>
+  </temperature>
+  <temperature date="15h 21m 41s" id="4">
+    <time unit="second">4</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 21m 42s" id="5">
+    <time unit="second">5</time>
+    <valc unit="celcius">22.75</valc>
+    <valf unit="fahrenheit">72.95</valf>
+  </temperature>
+  <temperature date="15h 21m 43s" id="6">
+    <time unit="second">6</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 21m 44s" id="7">
+    <time unit="second">7</time>
+    <valc unit="celcius">22.75</valc>
+    <valf unit="fahrenheit">72.95</valf>
+  </temperature>
+  <temperature date="15h 21m 45s" id="8">
+    <time unit="second">8</time>
+    <valc unit="celcius">22.75</valc>
+    <valf unit="fahrenheit">72.95</valf>
+  </temperature>
+  <temperature date="15h 21m 46s" id="9">
+    <time unit="second">9</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 21m 47s" id="10">
+    <time unit="second">10</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 21m 48s" id="11">
     <time unit="second">11</time>
-    <valc unit="celcius">20.31</valc>
-    <valf unit="fahrenheit">68.558</valf>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
   </temperature>
-  <temperature date="23h 41m 13s" id="4">
+  <temperature date="15h 21m 49s" id="12">
+    <time unit="second">12</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 21m 50s" id="13">
+    <time unit="second">13</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 21m 51s" id="14">
+    <time unit="second">14</time>
+    <valc unit="celcius">20.8</valc>
+    <valf unit="fahrenheit">69.44</valf>
+  </temperature>
+  <temperature date="15h 21m 52s" id="15">
+    <time unit="second">15</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 21m 53s" id="16">
     <time unit="second">16</time>
-    <valc unit="celcius">19.82</valc>
-    <valf unit="fahrenheit">67.675995</valf>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
   </temperature>
-  <temperature date="23h 41m 18s" id="5">
+  <temperature date="15h 21m 54s" id="17">
+    <time unit="second">17</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 21m 55s" id="18">
+    <time unit="second">18</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 21m 56s" id="19">
+    <time unit="second">19</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 21m 57s" id="20">
+    <time unit="second">20</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 21m 58s" id="21">
     <time unit="second">21</time>
-    <valc unit="celcius">20.31</valc>
-    <valf unit="fahrenheit">68.558</valf>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
   </temperature>
-  <temperature date="23h 41m 24s" id="6">
+  <temperature date="15h 21m 59s" id="22">
+    <time unit="second">22</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 22m 0s" id="23">
+    <time unit="second">23</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 22m 1s" id="24">
+    <time unit="second">24</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 2s" id="25">
+    <time unit="second">25</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 3s" id="26">
     <time unit="second">26</time>
-    <valc unit="celcius">25.68</valc>
-    <valf unit="fahrenheit">78.224</valf>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
   </temperature>
-  <temperature date="23h 41m 29s" id="7">
-    <time unit="second">31</time>
-    <valc unit="celcius">30.57</valc>
-    <valf unit="fahrenheit">87.026</valf>
+  <temperature date="15h 22m 4s" id="27">
+    <time unit="second">27</time>
+    <valc unit="celcius">27.64</valc>
+    <valf unit="fahrenheit">81.752</valf>
   </temperature>
-  <temperature date="23h 41m 34s" id="8">
-    <time unit="second">36</time>
-    <valc unit="celcius">32.52</valc>
-    <valf unit="fahrenheit">90.535995</valf>
-  </temperature>
-  <temperature date="23h 41m 39s" id="9">
-    <time unit="second">41</time>
-    <valc unit="celcius">31.54</valc>
-    <valf unit="fahrenheit">88.772</valf>
-  </temperature>
-  <temperature date="23h 41m 44s" id="10">
-    <time unit="second">46</time>
+  <temperature date="15h 22m 5s" id="28">
+    <time unit="second">28</time>
     <valc unit="celcius">28.13</valc>
     <valf unit="fahrenheit">82.634</valf>
   </temperature>
-  <temperature date="23h 41m 49s" id="11">
-    <time unit="second">51</time>
+  <temperature date="15h 22m 6s" id="29">
+    <time unit="second">29</time>
+    <valc unit="celcius">28.13</valc>
+    <valf unit="fahrenheit">82.634</valf>
+  </temperature>
+  <temperature date="15h 22m 7s" id="30">
+    <time unit="second">30</time>
+    <valc unit="celcius">28.61</valc>
+    <valf unit="fahrenheit">83.498</valf>
+  </temperature>
+  <temperature date="15h 22m 8s" id="31">
+    <time unit="second">31</time>
+    <valc unit="celcius">28.61</valc>
+    <valf unit="fahrenheit">83.498</valf>
+  </temperature>
+  <temperature date="15h 22m 9s" id="32">
+    <time unit="second">32</time>
+    <valc unit="celcius">27.64</valc>
+    <valf unit="fahrenheit">81.752</valf>
+  </temperature>
+  <temperature date="15h 22m 10s" id="33">
+    <time unit="second">33</time>
+    <valc unit="celcius">27.64</valc>
+    <valf unit="fahrenheit">81.752</valf>
+  </temperature>
+  <temperature date="15h 22m 11s" id="34">
+    <time unit="second">34</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 12s" id="35">
+    <time unit="second">35</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 13s" id="36">
+    <time unit="second">36</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 14s" id="37">
+    <time unit="second">37</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 15s" id="38">
+    <time unit="second">38</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 16s" id="39">
+    <time unit="second">39</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 17s" id="40">
+    <time unit="second">40</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 18s" id="41">
+    <time unit="second">41</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 19s" id="42">
+    <time unit="second">42</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 20s" id="43">
+    <time unit="second">43</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 21s" id="44">
+    <time unit="second">44</time>
+    <valc unit="celcius">27.64</valc>
+    <valf unit="fahrenheit">81.752</valf>
+  </temperature>
+  <temperature date="15h 22m 22s" id="45">
+    <time unit="second">45</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 23s" id="46">
+    <time unit="second">46</time>
+    <valc unit="celcius">27.64</valc>
+    <valf unit="fahrenheit">81.752</valf>
+  </temperature>
+  <temperature date="15h 22m 24s" id="47">
+    <time unit="second">47</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 22m 25s" id="48">
+    <time unit="second">48</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 26s" id="49">
+    <time unit="second">49</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 27s" id="50">
+    <time unit="second">50</time>
     <valc unit="celcius">26.17</valc>
     <valf unit="fahrenheit">79.106</valf>
   </temperature>
-  <temperature date="23h 41m 54s" id="12">
+  <temperature date="15h 22m 28s" id="51">
+    <time unit="second">51</time>
+    <valc unit="celcius">25.68</valc>
+    <valf unit="fahrenheit">78.224</valf>
+  </temperature>
+  <temperature date="15h 22m 29s" id="52">
+    <time unit="second">52</time>
+    <valc unit="celcius">25.68</valc>
+    <valf unit="fahrenheit">78.224</valf>
+  </temperature>
+  <temperature date="15h 22m 30s" id="53">
+    <time unit="second">53</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 22m 31s" id="54">
+    <time unit="second">54</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 22m 32s" id="55">
+    <time unit="second">55</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 22m 33s" id="56">
     <time unit="second">56</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 22m 34s" id="57">
+    <time unit="second">57</time>
     <valc unit="celcius">24.71</valc>
     <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 22m 35s" id="58">
+    <time unit="second">58</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 22m 36s" id="59">
+    <time unit="second">59</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 22m 37s" id="60">
+    <time unit="second">60</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 22m 38s" id="61">
+    <time unit="second">61</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 22m 39s" id="62">
+    <time unit="second">62</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 22m 40s" id="63">
+    <time unit="second">63</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 22m 41s" id="64">
+    <time unit="second">64</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 22m 42s" id="65">
+    <time unit="second">65</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 22m 43s" id="66">
+    <time unit="second">66</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 22m 44s" id="67">
+    <time unit="second">67</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 22m 45s" id="68">
+    <time unit="second">68</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 22m 46s" id="69">
+    <time unit="second">69</time>
+    <valc unit="celcius">23.24</valc>
+    <valf unit="fahrenheit">73.832</valf>
+  </temperature>
+  <temperature date="15h 22m 47s" id="70">
+    <time unit="second">70</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 22m 48s" id="71">
+    <time unit="second">71</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 22m 49s" id="72">
+    <time unit="second">72</time>
+    <valc unit="celcius">27.64</valc>
+    <valf unit="fahrenheit">81.752</valf>
+  </temperature>
+  <temperature date="15h 22m 50s" id="73">
+    <time unit="second">73</time>
+    <valc unit="celcius">29.1</valc>
+    <valf unit="fahrenheit">84.380005</valf>
+  </temperature>
+  <temperature date="15h 22m 51s" id="74">
+    <time unit="second">74</time>
+    <valc unit="celcius">29.59</valc>
+    <valf unit="fahrenheit">85.26199</valf>
+  </temperature>
+  <temperature date="15h 22m 52s" id="75">
+    <time unit="second">75</time>
+    <valc unit="celcius">30.57</valc>
+    <valf unit="fahrenheit">87.026</valf>
+  </temperature>
+  <temperature date="15h 22m 53s" id="76">
+    <time unit="second">76</time>
+    <valc unit="celcius">31.54</valc>
+    <valf unit="fahrenheit">88.772</valf>
+  </temperature>
+  <temperature date="15h 22m 54s" id="77">
+    <time unit="second">77</time>
+    <valc unit="celcius">32.03</valc>
+    <valf unit="fahrenheit">89.65399</valf>
+  </temperature>
+  <temperature date="15h 22m 55s" id="78">
+    <time unit="second">78</time>
+    <valc unit="celcius">32.03</valc>
+    <valf unit="fahrenheit">89.65399</valf>
+  </temperature>
+  <temperature date="15h 22m 56s" id="79">
+    <time unit="second">79</time>
+    <valc unit="celcius">31.54</valc>
+    <valf unit="fahrenheit">88.772</valf>
+  </temperature>
+  <temperature date="15h 22m 57s" id="80">
+    <time unit="second">80</time>
+    <valc unit="celcius">30.57</valc>
+    <valf unit="fahrenheit">87.026</valf>
+  </temperature>
+  <temperature date="15h 22m 58s" id="81">
+    <time unit="second">81</time>
+    <valc unit="celcius">30.57</valc>
+    <valf unit="fahrenheit">87.026</valf>
+  </temperature>
+  <temperature date="15h 22m 59s" id="82">
+    <time unit="second">82</time>
+    <valc unit="celcius">30.57</valc>
+    <valf unit="fahrenheit">87.026</valf>
+  </temperature>
+  <temperature date="15h 23m 0s" id="83">
+    <time unit="second">83</time>
+    <valc unit="celcius">31.05</valc>
+    <valf unit="fahrenheit">87.89</valf>
+  </temperature>
+  <temperature date="15h 23m 1s" id="84">
+    <time unit="second">84</time>
+    <valc unit="celcius">31.54</valc>
+    <valf unit="fahrenheit">88.772</valf>
+  </temperature>
+  <temperature date="15h 23m 2s" id="85">
+    <time unit="second">85</time>
+    <valc unit="celcius">31.54</valc>
+    <valf unit="fahrenheit">88.772</valf>
+  </temperature>
+  <temperature date="15h 23m 3s" id="86">
+    <time unit="second">86</time>
+    <valc unit="celcius">32.03</valc>
+    <valf unit="fahrenheit">89.65399</valf>
+  </temperature>
+  <temperature date="15h 23m 4s" id="87">
+    <time unit="second">87</time>
+    <valc unit="celcius">32.03</valc>
+    <valf unit="fahrenheit">89.65399</valf>
+  </temperature>
+  <temperature date="15h 23m 5s" id="88">
+    <time unit="second">88</time>
+    <valc unit="celcius">32.52</valc>
+    <valf unit="fahrenheit">90.535995</valf>
+  </temperature>
+  <temperature date="15h 23m 6s" id="89">
+    <time unit="second">89</time>
+    <valc unit="celcius">32.52</valc>
+    <valf unit="fahrenheit">90.535995</valf>
+  </temperature>
+  <temperature date="15h 23m 7s" id="90">
+    <time unit="second">90</time>
+    <valc unit="celcius">32.52</valc>
+    <valf unit="fahrenheit">90.535995</valf>
+  </temperature>
+  <temperature date="15h 23m 8s" id="91">
+    <time unit="second">91</time>
+    <valc unit="celcius">32.52</valc>
+    <valf unit="fahrenheit">90.535995</valf>
+  </temperature>
+  <temperature date="15h 23m 9s" id="92">
+    <time unit="second">92</time>
+    <valc unit="celcius">32.03</valc>
+    <valf unit="fahrenheit">89.65399</valf>
+  </temperature>
+  <temperature date="15h 23m 10s" id="93">
+    <time unit="second">93</time>
+    <valc unit="celcius">31.54</valc>
+    <valf unit="fahrenheit">88.772</valf>
+  </temperature>
+  <temperature date="15h 23m 11s" id="94">
+    <time unit="second">94</time>
+    <valc unit="celcius">31.05</valc>
+    <valf unit="fahrenheit">87.89</valf>
+  </temperature>
+  <temperature date="15h 23m 12s" id="95">
+    <time unit="second">95</time>
+    <valc unit="celcius">30.08</valc>
+    <valf unit="fahrenheit">86.144</valf>
+  </temperature>
+  <temperature date="15h 23m 13s" id="96">
+    <time unit="second">96</time>
+    <valc unit="celcius">29.59</valc>
+    <valf unit="fahrenheit">85.26199</valf>
+  </temperature>
+  <temperature date="15h 23m 14s" id="97">
+    <time unit="second">97</time>
+    <valc unit="celcius">29.1</valc>
+    <valf unit="fahrenheit">84.380005</valf>
+  </temperature>
+  <temperature date="15h 23m 15s" id="98">
+    <time unit="second">98</time>
+    <valc unit="celcius">28.61</valc>
+    <valf unit="fahrenheit">83.498</valf>
+  </temperature>
+  <temperature date="15h 23m 16s" id="99">
+    <time unit="second">99</time>
+    <valc unit="celcius">28.13</valc>
+    <valf unit="fahrenheit">82.634</valf>
+  </temperature>
+  <temperature date="15h 23m 17s" id="100">
+    <time unit="second">100</time>
+    <valc unit="celcius">28.13</valc>
+    <valf unit="fahrenheit">82.634</valf>
+  </temperature>
+  <temperature date="15h 23m 18s" id="101">
+    <time unit="second">101</time>
+    <valc unit="celcius">27.15</valc>
+    <valf unit="fahrenheit">80.869995</valf>
+  </temperature>
+  <temperature date="15h 23m 19s" id="102">
+    <time unit="second">102</time>
+    <valc unit="celcius">26.66</valc>
+    <valf unit="fahrenheit">79.988</valf>
+  </temperature>
+  <temperature date="15h 23m 20s" id="103">
+    <time unit="second">103</time>
+    <valc unit="celcius">26.17</valc>
+    <valf unit="fahrenheit">79.106</valf>
+  </temperature>
+  <temperature date="15h 23m 21s" id="104">
+    <time unit="second">104</time>
+    <valc unit="celcius">26.17</valc>
+    <valf unit="fahrenheit">79.106</valf>
+  </temperature>
+  <temperature date="15h 23m 22s" id="105">
+    <time unit="second">105</time>
+    <valc unit="celcius">26.17</valc>
+    <valf unit="fahrenheit">79.106</valf>
+  </temperature>
+  <temperature date="15h 23m 23s" id="106">
+    <time unit="second">106</time>
+    <valc unit="celcius">26.17</valc>
+    <valf unit="fahrenheit">79.106</valf>
+  </temperature>
+  <temperature date="15h 23m 24s" id="107">
+    <time unit="second">107</time>
+    <valc unit="celcius">25.68</valc>
+    <valf unit="fahrenheit">78.224</valf>
+  </temperature>
+  <temperature date="15h 23m 25s" id="108">
+    <time unit="second">108</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 23m 26s" id="109">
+    <time unit="second">109</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 23m 27s" id="110">
+    <time unit="second">110</time>
+    <valc unit="celcius">25.2</valc>
+    <valf unit="fahrenheit">77.36</valf>
+  </temperature>
+  <temperature date="15h 23m 28s" id="111">
+    <time unit="second">111</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 23m 29s" id="112">
+    <time unit="second">112</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 23m 30s" id="113">
+    <time unit="second">113</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 23m 31s" id="114">
+    <time unit="second">114</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 23m 32s" id="115">
+    <time unit="second">115</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 23m 33s" id="116">
+    <time unit="second">116</time>
+    <valc unit="celcius">24.71</valc>
+    <valf unit="fahrenheit">76.478</valf>
+  </temperature>
+  <temperature date="15h 23m 34s" id="117">
+    <time unit="second">117</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 35s" id="118">
+    <time unit="second">118</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 36s" id="119">
+    <time unit="second">119</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 37s" id="120">
+    <time unit="second">120</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 38s" id="121">
+    <time unit="second">121</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 39s" id="122">
+    <time unit="second">122</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 40s" id="123">
+    <time unit="second">123</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 41s" id="124">
+    <time unit="second">124</time>
+    <valc unit="celcius">24.22</valc>
+    <valf unit="fahrenheit">75.59599</valf>
+  </temperature>
+  <temperature date="15h 23m 42s" id="125">
+    <time unit="second">125</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 43s" id="126">
+    <time unit="second">126</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 44s" id="127">
+    <time unit="second">127</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 45s" id="128">
+    <time unit="second">128</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 46s" id="129">
+    <time unit="second">129</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 47s" id="130">
+    <time unit="second">130</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 48s" id="131">
+    <time unit="second">131</time>
+    <valc unit="celcius">23.24</valc>
+    <valf unit="fahrenheit">73.832</valf>
+  </temperature>
+  <temperature date="15h 23m 49s" id="132">
+    <time unit="second">132</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 50s" id="133">
+    <time unit="second">133</time>
+    <valc unit="celcius">23.73</valc>
+    <valf unit="fahrenheit">74.714</valf>
+  </temperature>
+  <temperature date="15h 23m 51s" id="134">
+    <time unit="second">134</time>
+    <valc unit="celcius">22.75</valc>
+    <valf unit="fahrenheit">72.95</valf>
+  </temperature>
+  <temperature date="15h 23m 52s" id="135">
+    <time unit="second">135</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 23m 53s" id="136">
+    <time unit="second">136</time>
+    <valc unit="celcius">20.31</valc>
+    <valf unit="fahrenheit">68.558</valf>
+  </temperature>
+  <temperature date="15h 23m 54s" id="137">
+    <time unit="second">137</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 23m 55s" id="138">
+    <time unit="second">138</time>
+    <valc unit="celcius">18.36</valc>
+    <valf unit="fahrenheit">65.048004</valf>
+  </temperature>
+  <temperature date="15h 23m 56s" id="139">
+    <time unit="second">139</time>
+    <valc unit="celcius">17.87</valc>
+    <valf unit="fahrenheit">64.166</valf>
+  </temperature>
+  <temperature date="15h 23m 57s" id="140">
+    <time unit="second">140</time>
+    <valc unit="celcius">17.38</valc>
+    <valf unit="fahrenheit">63.283997</valf>
+  </temperature>
+  <temperature date="15h 23m 58s" id="141">
+    <time unit="second">141</time>
+    <valc unit="celcius">17.38</valc>
+    <valf unit="fahrenheit">63.283997</valf>
+  </temperature>
+  <temperature date="15h 23m 59s" id="142">
+    <time unit="second">142</time>
+    <valc unit="celcius">17.38</valc>
+    <valf unit="fahrenheit">63.283997</valf>
+  </temperature>
+  <temperature date="15h 24m 0s" id="143">
+    <time unit="second">143</time>
+    <valc unit="celcius">17.38</valc>
+    <valf unit="fahrenheit">63.283997</valf>
+  </temperature>
+  <temperature date="15h 24m 1s" id="144">
+    <time unit="second">144</time>
+    <valc unit="celcius">18.36</valc>
+    <valf unit="fahrenheit">65.048004</valf>
+  </temperature>
+  <temperature date="15h 24m 2s" id="145">
+    <time unit="second">145</time>
+    <valc unit="celcius">18.36</valc>
+    <valf unit="fahrenheit">65.048004</valf>
+  </temperature>
+  <temperature date="15h 24m 3s" id="146">
+    <time unit="second">146</time>
+    <valc unit="celcius">18.36</valc>
+    <valf unit="fahrenheit">65.048004</valf>
+  </temperature>
+  <temperature date="15h 24m 4s" id="147">
+    <time unit="second">147</time>
+    <valc unit="celcius">18.85</valc>
+    <valf unit="fahrenheit">65.93</valf>
+  </temperature>
+  <temperature date="15h 24m 5s" id="148">
+    <time unit="second">148</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 6s" id="149">
+    <time unit="second">149</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 7s" id="150">
+    <time unit="second">150</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 8s" id="151">
+    <time unit="second">151</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 9s" id="152">
+    <time unit="second">152</time>
+    <valc unit="celcius">18.85</valc>
+    <valf unit="fahrenheit">65.93</valf>
+  </temperature>
+  <temperature date="15h 24m 10s" id="153">
+    <time unit="second">153</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 11s" id="154">
+    <time unit="second">154</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 12s" id="155">
+    <time unit="second">155</time>
+    <valc unit="celcius">19.82</valc>
+    <valf unit="fahrenheit">67.675995</valf>
+  </temperature>
+  <temperature date="15h 24m 13s" id="156">
+    <time unit="second">156</time>
+    <valc unit="celcius">19.34</valc>
+    <valf unit="fahrenheit">66.812</valf>
+  </temperature>
+  <temperature date="15h 24m 14s" id="157">
+    <time unit="second">157</time>
+    <valc unit="celcius">19.82</valc>
+    <valf unit="fahrenheit">67.675995</valf>
+  </temperature>
+  <temperature date="15h 24m 15s" id="158">
+    <time unit="second">158</time>
+    <valc unit="celcius">19.82</valc>
+    <valf unit="fahrenheit">67.675995</valf>
+  </temperature>
+  <temperature date="15h 24m 16s" id="159">
+    <time unit="second">159</time>
+    <valc unit="celcius">20.31</valc>
+    <valf unit="fahrenheit">68.558</valf>
+  </temperature>
+  <temperature date="15h 24m 17s" id="160">
+    <time unit="second">160</time>
+    <valc unit="celcius">20.31</valc>
+    <valf unit="fahrenheit">68.558</valf>
+  </temperature>
+  <temperature date="15h 24m 18s" id="161">
+    <time unit="second">161</time>
+    <valc unit="celcius">20.31</valc>
+    <valf unit="fahrenheit">68.558</valf>
+  </temperature>
+  <temperature date="15h 24m 19s" id="162">
+    <time unit="second">162</time>
+    <valc unit="celcius">20.8</valc>
+    <valf unit="fahrenheit">69.44</valf>
+  </temperature>
+  <temperature date="15h 24m 20s" id="163">
+    <time unit="second">163</time>
+    <valc unit="celcius">20.8</valc>
+    <valf unit="fahrenheit">69.44</valf>
+  </temperature>
+  <temperature date="15h 24m 21s" id="164">
+    <time unit="second">164</time>
+    <valc unit="celcius">20.8</valc>
+    <valf unit="fahrenheit">69.44</valf>
+  </temperature>
+  <temperature date="15h 24m 22s" id="165">
+    <time unit="second">165</time>
+    <valc unit="celcius">20.8</valc>
+    <valf unit="fahrenheit">69.44</valf>
+  </temperature>
+  <temperature date="15h 24m 23s" id="166">
+    <time unit="second">166</time>
+    <valc unit="celcius">20.8</valc>
+    <valf unit="fahrenheit">69.44</valf>
+  </temperature>
+  <temperature date="15h 24m 24s" id="167">
+    <time unit="second">167</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 24m 25s" id="168">
+    <time unit="second">168</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 24m 26s" id="169">
+    <time unit="second">169</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 24m 27s" id="170">
+    <time unit="second">170</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 24m 28s" id="171">
+    <time unit="second">171</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 24m 29s" id="172">
+    <time unit="second">172</time>
+    <valc unit="celcius">21.29</valc>
+    <valf unit="fahrenheit">70.32201</valf>
+  </temperature>
+  <temperature date="15h 24m 30s" id="173">
+    <time unit="second">173</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 31s" id="174">
+    <time unit="second">174</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 32s" id="175">
+    <time unit="second">175</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 33s" id="176">
+    <time unit="second">176</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 34s" id="177">
+    <time unit="second">177</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 35s" id="178">
+    <time unit="second">178</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 36s" id="179">
+    <time unit="second">179</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 37s" id="180">
+    <time unit="second">180</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 38s" id="181">
+    <time unit="second">181</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 39s" id="182">
+    <time unit="second">182</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 40s" id="183">
+    <time unit="second">183</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 41s" id="184">
+    <time unit="second">184</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 42s" id="185">
+    <time unit="second">185</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 43s" id="186">
+    <time unit="second">186</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 44s" id="187">
+    <time unit="second">187</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 45s" id="188">
+    <time unit="second">188</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 46s" id="189">
+    <time unit="second">189</time>
+    <valc unit="celcius">21.78</valc>
+    <valf unit="fahrenheit">71.203995</valf>
+  </temperature>
+  <temperature date="15h 24m 47s" id="190">
+    <time unit="second">190</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 48s" id="191">
+    <time unit="second">191</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 49s" id="192">
+    <time unit="second">192</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 50s" id="193">
+    <time unit="second">193</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 51s" id="194">
+    <time unit="second">194</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 52s" id="195">
+    <time unit="second">195</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 53s" id="196">
+    <time unit="second">196</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 54s" id="197">
+    <time unit="second">197</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 55s" id="198">
+    <time unit="second">198</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 56s" id="199">
+    <time unit="second">199</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 57s" id="200">
+    <time unit="second">200</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 58s" id="201">
+    <time unit="second">201</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 24m 59s" id="202">
+    <time unit="second">202</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 0s" id="203">
+    <time unit="second">203</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 1s" id="204">
+    <time unit="second">204</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 2s" id="205">
+    <time unit="second">205</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 3s" id="206">
+    <time unit="second">206</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 4s" id="207">
+    <time unit="second">207</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 5s" id="208">
+    <time unit="second">208</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 6s" id="209">
+    <time unit="second">209</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 7s" id="210">
+    <time unit="second">210</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 8s" id="211">
+    <time unit="second">211</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 9s" id="212">
+    <time unit="second">212</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 10s" id="213">
+    <time unit="second">213</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 11s" id="214">
+    <time unit="second">214</time>
+    <valc unit="celcius">22.75</valc>
+    <valf unit="fahrenheit">72.95</valf>
+  </temperature>
+  <temperature date="15h 25m 12s" id="215">
+    <time unit="second">215</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 13s" id="216">
+    <time unit="second">216</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 14s" id="217">
+    <time unit="second">217</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 15s" id="218">
+    <time unit="second">218</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 16s" id="219">
+    <time unit="second">219</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 17s" id="220">
+    <time unit="second">220</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 18s" id="221">
+    <time unit="second">221</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 19s" id="222">
+    <time unit="second">222</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 20s" id="223">
+    <time unit="second">223</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 21s" id="224">
+    <time unit="second">224</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 22s" id="225">
+    <time unit="second">225</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 23s" id="226">
+    <time unit="second">226</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 24s" id="227">
+    <time unit="second">227</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 25s" id="228">
+    <time unit="second">228</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
+  </temperature>
+  <temperature date="15h 25m 26s" id="229">
+    <time unit="second">229</time>
+    <valc unit="celcius">22.27</valc>
+    <valf unit="fahrenheit">72.086</valf>
   </temperature>
 </data>

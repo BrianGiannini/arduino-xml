@@ -19,7 +19,7 @@ Made By Brian Giannini
     	//var rowTest= array(1;2, 2;3, 3;4 4;5);
       var data = new google.visualization.DataTable();
       data.addColumn('number', 'X');
-      data.addColumn('number', '°C');
+      data.addColumn('number', '°F');
 
 	<?php
 	if(isset($_POST['submit'])){
@@ -92,12 +92,11 @@ Made By Brian Giannini
 		<ul>
 			<li><a href="tempc.php">Temperature °C</a></li>
 			<li><a href="tempf.php">Temperature °F</a></li>
-			<li><a href="">Luminosity</a></li>
 		</ul>
 	</nav>
 	<section>
 		<aside>
-			<h1>Temperatures °C</h1>
+			<h1>Temperatures °F</h1>
 		</aside>
 			<article>
 				<p>	
